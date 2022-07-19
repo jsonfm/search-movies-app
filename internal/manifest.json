@@ -4,7 +4,7 @@
     "src": "src/lib/header/svelte-logo.svg"
   },
   ".svelte-kit/runtime/client/start.js": {
-    "file": "immutable/start-0242defb.js",
+    "file": "immutable/start-4b271f77.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -48,7 +48,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "immutable/pages/index.svelte-4bb96122.js",
+    "file": "immutable/pages/index.svelte-ca09115c.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
