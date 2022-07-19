@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/search-movies-app/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta http-equiv="content-security-policy" content="">
+	<link rel="modulepreload" href="/search-movies-app/_app/immutable/start-c1f52208.js">
+	<link rel="modulepreload" href="/search-movies-app/_app/immutable/chunks/index-e1cc1dfa.js">
+	</head>
+	<body>
+		<div>
+		<script type="module" data-sveltekit-hydrate="45h">
+		import { start } from "/search-movies-app/_app/immutable/start-c1f52208.js";
+		start({
+			target: document.querySelector('[data-sveltekit-hydrate="45h"]').parentNode,
+			paths: {"base":"/search-movies-app","assets":"/search-movies-app"},
+			session: {},
+			route: true,
+			spa: true,
+			trailing_slash: "never",
+			hydrate: null
+		});
+	</script></div>
+	</body>
+</html>
