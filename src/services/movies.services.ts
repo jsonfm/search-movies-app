@@ -10,6 +10,7 @@ export class MoviesService {
         protected key: string = "6efd9b42"
     ){
         this.url = `${this.urlbase}/?apikey=${key}`;
+        console.log("url: ", this.url);
     }
 
     async searchMovie(name: string=""){
